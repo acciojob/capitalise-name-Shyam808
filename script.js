@@ -1,1 +1,6 @@
-//your JS code here. If required.
+<script>
+  function convertToUppercase() {
+    const input = document.getElementById("fname");
+    input.value = input.value.toUpperCase();
+  }
+</script>
